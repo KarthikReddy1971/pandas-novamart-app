@@ -163,9 +163,9 @@ The dashboard helps explore questions such as:
 
 ## 🌐 Live Demo
 
-🔗 **Streamlit App:** `<YOUR_LIVE_APP_URL>`
+🔗 **Streamlit App:** `https://pandas-novamart-app.streamlit.app/`
 
-🔗 **GitHub:** `<YOUR_GITHUB_REPOSITORY_URL>`
+🔗 **Linkedin :** 'https://www.linkedin.com/in/karthik-reddy-buthukuri-25678328a/'
 
 ---
 
