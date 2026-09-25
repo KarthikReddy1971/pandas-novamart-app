@@ -163,7 +163,7 @@ The dashboard helps explore questions such as:
 
 ## 🌐 Live Demo
 
-🔗 **Streamlit App:** `https://pandas-novamart-app.streamlit.app/`
+🔗 **Streamlit App:** https://pandas-novamart-app.streamlit.app/
 
 🔗 **Linkedin :** 'https://www.linkedin.com/in/karthik-reddy-buthukuri-25678328a/'
 
