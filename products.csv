@@ -1,0 +1,145 @@
+product_id,category,subcategory,product_name,cost_price,list_price,supplier,launch_date
+P0001,Electronics,Smartphones,Smartphones Product 1,7246.85,9320.57,Delta Wholesale,2025-07-04
+P0002,Electronics,Smartphones,Smartphones Product 2,6712.01,10581.05,Fusion Retail Supply,2022-03-03
+P0003,Electronics,Smartphones,Smartphones Product 3,13629.54,19113.9,Fusion Retail Supply,2026-01-30
+P0004,Electronics,Smartphones,Smartphones Product 4,12378.75,18623.09,BluePeak Traders,2022-03-04
+P0005,Electronics,Smartphones,Smartphones Product 5,3122.4,5285.81,Fusion Retail Supply,2022-12-27
+P0006,Electronics,Smartphones,Smartphones Product 6,15362.37,20477.18,Galaxy Imports,2023-01-09
+P0007,Electronics,Laptops,Laptops Product 1,8357.06,11738.48,Fusion Retail Supply,2022-10-15
+P0008,Electronics,Laptops,Laptops Product 2,14897.26,22770.33,Delta Wholesale,2023-01-16
+P0009,Electronics,Laptops,Laptops Product 3,11455.01,14385.96,Evergreen Distributors,2024-12-26
+P0010,Electronics,Laptops,Laptops Product 4,14236.89,23537.51,Delta Wholesale,2023-04-01
+P0011,Electronics,Laptops,Laptops Product 5,9885.74,16745.11,BluePeak Traders,2025-03-18
+P0012,Electronics,Laptops,Laptops Product 6,6202.53,7900.29,Fusion Retail Supply,2022-06-13
+P0013,Electronics,Audio,Audio Product 1,3456.44,5578.88,Horizon Partners,2026-01-19
+P0014,Electronics,Audio,Audio Product 2,3300.83,5673.02,Crestline,2024-03-07
+P0015,Electronics,Audio,Audio Product 3,17439.07,22286.41,Delta Wholesale,2025-04-21
+P0016,Electronics,Audio,Audio Product 4,15645.82,20444.3,Fusion Retail Supply,2024-12-20
+P0017,Electronics,Audio,Audio Product 5,1947.71,3253.57,BluePeak Traders,2024-10-30
+P0018,Electronics,Audio,Audio Product 6,10131.61,14214.6,Aster Supply,2024-01-20
+P0019,Electronics,Accessories,Accessories Product 1,17135.11,25001.67,Galaxy Imports,2023-06-23
+P0020,Electronics,Accessories,Accessories Product 2,17098.44,25621.16,Fusion Retail Supply,2022-02-02
+P0021,Electronics,Accessories,Accessories Product 3,13637.06,22100.38,Evergreen Distributors,2023-08-12
+P0022,Electronics,Accessories,Accessories Product 4,4128.82,5328.95,BluePeak Traders,2025-07-10
+P0023,Electronics,Accessories,Accessories Product 5,15814.17,26718.11,BluePeak Traders,2025-03-27
+P0024,Electronics,Accessories,Accessories Product 6,16682.58,20761.84,Horizon Partners,2024-09-12
+P0025,Home & Kitchen,Cookware,Cookware Product 1,3066.89,3967.07,Fusion Retail Supply,2025-12-14
+P0026,Home & Kitchen,Cookware,Cookware Product 2,10525.75,14035.1,BluePeak Traders,2022-03-19
+P0027,Home & Kitchen,Cookware,Cookware Product 3,15113.5,19644.62,BluePeak Traders,2023-09-22
+P0028,Home & Kitchen,Cookware,Cookware Product 4,5935.4,8538.64,Fusion Retail Supply,2023-11-01
+P0029,Home & Kitchen,Cookware,Cookware Product 5,3737.07,4871.12,Fusion Retail Supply,2022-12-22
+P0030,Home & Kitchen,Cookware,Cookware Product 6,11194.51,14578.01,Horizon Partners,2024-05-09
+P0031,Home & Kitchen,Appliances,Appliances Product 1,13133.81,22614.52,Delta Wholesale,2022-07-19
+P0032,Home & Kitchen,Appliances,Appliances Product 2,14402.61,20667.4,Aster Supply,2023-10-12
+P0033,Home & Kitchen,Appliances,Appliances Product 3,407.09,624.41,BluePeak Traders,2022-11-03
+P0034,Home & Kitchen,Appliances,Appliances Product 4,5188.6,8399.11,Aster Supply,2022-06-28
+P0035,Home & Kitchen,Appliances,Appliances Product 5,14000.85,17936.14,BluePeak Traders,2024-02-24
+P0036,Home & Kitchen,Appliances,Appliances Product 6,12565.89,18578.93,Aster Supply,2025-02-23
+P0037,Home & Kitchen,Storage,Storage Product 1,10938.68,18113.36,Horizon Partners,2026-04-01
+P0038,Home & Kitchen,Storage,Storage Product 2,240.27,332.96,Fusion Retail Supply,2023-04-27
+P0039,Home & Kitchen,Storage,Storage Product 3,7311.22,12336.99,Galaxy Imports,2023-11-09
+P0040,Home & Kitchen,Storage,Storage Product 4,7559.57,13037.7,Galaxy Imports,2026-05-02
+P0041,Home & Kitchen,Storage,Storage Product 5,14286.25,20520.4,Evergreen Distributors,2024-06-24
+P0042,Home & Kitchen,Storage,Storage Product 6,5459.87,6964.21,Fusion Retail Supply,2024-10-06
+P0043,Home & Kitchen,Home Decor,Home Decor Product 1,9242.53,16085.68,Evergreen Distributors,2025-10-02
+P0044,Home & Kitchen,Home Decor,Home Decor Product 2,9799.33,13459.73,Galaxy Imports,2025-04-19
+P0045,Home & Kitchen,Home Decor,Home Decor Product 3,17365.89,28376.97,Evergreen Distributors,2023-10-12
+P0046,Home & Kitchen,Home Decor,Home Decor Product 4,3298.62,4134.73,BluePeak Traders,2025-06-12
+P0047,Home & Kitchen,Home Decor,Home Decor Product 5,17421.3,28624.56,Fusion Retail Supply,2024-05-26
+P0048,Home & Kitchen,Home Decor,Home Decor Product 6,574.08,982.58,Aster Supply,2022-01-13
+P0049,Fashion,Men,Men Product 1,886.6,1451.3,Delta Wholesale,2024-02-02
+P0050,Fashion,Men,Men Product 2,10603.6,17821.39,Delta Wholesale,2022-05-29
+P0051,Fashion,Men,Men Product 3,2464.57,4140.73,Fusion Retail Supply,2022-08-26
+P0052,Fashion,Men,Men Product 4,15648.51,19082.86,Fusion Retail Supply,2022-01-12
+P0053,Fashion,Men,Men Product 5,6197.94,7432.94,Galaxy Imports,2023-02-22
+P0054,Fashion,Men,Men Product 6,10053.16,12906.5,Evergreen Distributors,2022-07-25
+P0055,Fashion,Women,Women Product 1,5542.33,9228.75,Galaxy Imports,2024-12-10
+P0056,Fashion,Women,Women Product 2,7018.56,10762.11,Horizon Partners,2026-01-07
+P0057,Fashion,Women,Women Product 3,2696.01,4661.31,Delta Wholesale,2025-11-14
+P0058,Fashion,Women,Women Product 4,7684.53,13004.95,Horizon Partners,2026-06-04
+P0059,Fashion,Women,Women Product 5,12982.17,17484.66,Crestline,2024-04-26
+P0060,Fashion,Women,Women Product 6,13474.57,16896.43,Crestline,2024-11-21
+P0061,Fashion,Footwear,Footwear Product 1,16556.03,22253.13,Delta Wholesale,2022-05-23
+P0062,Fashion,Footwear,Footwear Product 2,14520.28,18564.73,BluePeak Traders,2025-01-17
+P0063,Fashion,Footwear,Footwear Product 3,13298.39,17135.53,Crestline,2022-05-09
+P0064,Fashion,Footwear,Footwear Product 4,3699.24,4667.08,Aster Supply,2025-08-14
+P0065,Fashion,Footwear,Footwear Product 5,11329.19,17398.45,Galaxy Imports,2022-05-01
+P0066,Fashion,Footwear,Footwear Product 6,13320.74,22441.78,Delta Wholesale,2024-11-30
+P0067,Fashion,Bags,Bags Product 1,7546.78,11011.03,Horizon Partners,2023-02-22
+P0068,Fashion,Bags,Bags Product 2,6288.73,9329.54,Horizon Partners,2026-04-20
+P0069,Fashion,Bags,Bags Product 3,7343.97,11621.94,Horizon Partners,2025-09-24
+P0070,Fashion,Bags,Bags Product 4,3283.71,4212.93,Horizon Partners,2023-12-18
+P0071,Fashion,Bags,Bags Product 5,8420.99,11186.39,Evergreen Distributors,2024-01-14
+P0072,Fashion,Bags,Bags Product 6,8770.94,12244.04,Aster Supply,2025-03-15
+P0073,Beauty,Skin Care,Skin Care Product 1,5938.76,9101.79,Horizon Partners,2024-11-12
+P0074,Beauty,Skin Care,Skin Care Product 2,6957.54,10818.11,BluePeak Traders,2023-05-09
+P0075,Beauty,Skin Care,Skin Care Product 3,7137.82,10657.79,Horizon Partners,2023-01-08
+P0076,Beauty,Skin Care,Skin Care Product 4,17291.07,26764.67,BluePeak Traders,2022-12-26
+P0077,Beauty,Skin Care,Skin Care Product 5,8294.14,10803.86,Delta Wholesale,2024-06-26
+P0078,Beauty,Skin Care,Skin Care Product 6,16673.21,25903.1,Aster Supply,2023-01-17
+P0079,Beauty,Hair Care,Hair Care Product 1,5945.71,7600.7,Delta Wholesale,2025-03-26
+P0080,Beauty,Hair Care,Hair Care Product 2,13368.98,22493.15,Galaxy Imports,2022-07-26
+P0081,Beauty,Hair Care,Hair Care Product 3,14413.32,22407.39,BluePeak Traders,2025-04-13
+P0082,Beauty,Hair Care,Hair Care Product 4,11569.59,15210.25,Crestline,2025-02-01
+P0083,Beauty,Hair Care,Hair Care Product 5,4347.81,5543.2,Fusion Retail Supply,2025-08-30
+P0084,Beauty,Hair Care,Hair Care Product 6,12680.17,16729.93,Delta Wholesale,2025-03-28
+P0085,Beauty,Makeup,Makeup Product 1,5845.24,10028.25,Galaxy Imports,2023-07-01
+P0086,Beauty,Makeup,Makeup Product 2,2304.16,3670.82,Horizon Partners,2024-08-06
+P0087,Beauty,Makeup,Makeup Product 3,4033.32,6617.46,Delta Wholesale,2023-08-17
+P0088,Beauty,Makeup,Makeup Product 4,16961.14,25534.91,Evergreen Distributors,2023-06-19
+P0089,Beauty,Makeup,Makeup Product 5,10447.65,18003.96,BluePeak Traders,2024-10-17
+P0090,Beauty,Makeup,Makeup Product 6,3346.63,4801.38,Horizon Partners,2025-04-07
+P0091,Beauty,Grooming,Grooming Product 1,168.06,253.01,BluePeak Traders,2024-06-20
+P0092,Beauty,Grooming,Grooming Product 2,3018.16,4131.05,Horizon Partners,2025-09-27
+P0093,Beauty,Grooming,Grooming Product 3,13704.25,23284.59,BluePeak Traders,2026-01-12
+P0094,Beauty,Grooming,Grooming Product 4,3950.56,6255.77,Crestline,2023-11-01
+P0095,Beauty,Grooming,Grooming Product 5,10482.86,15705.82,Delta Wholesale,2024-11-28
+P0096,Beauty,Grooming,Grooming Product 6,2456.35,2937.81,BluePeak Traders,2025-10-14
+P0097,Sports,Fitness,Fitness Product 1,2528.73,3509.01,Aster Supply,2026-02-02
+P0098,Sports,Fitness,Fitness Product 2,9917.87,12682.59,Evergreen Distributors,2022-04-02
+P0099,Sports,Fitness,Fitness Product 3,13726.62,20023.01,Horizon Partners,2025-11-05
+P0100,Sports,Fitness,Fitness Product 4,9393.0,13792.42,Horizon Partners,2025-03-11
+P0101,Sports,Fitness,Fitness Product 5,6365.72,8275.65,Fusion Retail Supply,2026-02-24
+P0102,Sports,Fitness,Fitness Product 6,12052.18,16676.57,Galaxy Imports,2023-04-30
+P0103,Sports,Outdoor,Outdoor Product 1,16646.53,27221.31,Aster Supply,2026-03-18
+P0104,Sports,Outdoor,Outdoor Product 2,3731.67,4994.97,Delta Wholesale,2023-09-11
+P0105,Sports,Outdoor,Outdoor Product 3,16615.1,25718.21,Fusion Retail Supply,2025-03-18
+P0106,Sports,Outdoor,Outdoor Product 4,2077.52,2530.11,Delta Wholesale,2022-11-30
+P0107,Sports,Outdoor,Outdoor Product 5,15711.48,23648.83,Aster Supply,2022-07-11
+P0108,Sports,Outdoor,Outdoor Product 6,14047.53,21723.94,Fusion Retail Supply,2022-12-09
+P0109,Sports,Sportswear,Sportswear Product 1,11992.47,14783.25,Horizon Partners,2023-02-12
+P0110,Sports,Sportswear,Sportswear Product 2,5076.05,8500.75,Delta Wholesale,2024-11-13
+P0111,Sports,Sportswear,Sportswear Product 3,1133.59,1869.58,Galaxy Imports,2022-01-11
+P0112,Sports,Sportswear,Sportswear Product 4,17860.15,21916.36,Horizon Partners,2025-11-07
+P0113,Sports,Sportswear,Sportswear Product 5,1781.57,3084.66,Galaxy Imports,2022-10-25
+P0114,Sports,Sportswear,Sportswear Product 6,985.69,1247.91,BluePeak Traders,2022-11-07
+P0115,Sports,Equipment,Equipment Product 1,3825.55,4771.63,Horizon Partners,2025-11-07
+P0116,Sports,Equipment,Equipment Product 2,7452.79,11991.66,Aster Supply,2022-10-13
+P0117,Sports,Equipment,Equipment Product 3,2179.17,3529.57,BluePeak Traders,2025-10-11
+P0118,Sports,Equipment,Equipment Product 4,2192.9,3065.83,Crestline,2022-08-03
+P0119,Sports,Equipment,Equipment Product 5,16449.54,19802.86,Aster Supply,2025-06-18
+P0120,Sports,Equipment,Equipment Product 6,8103.26,12901.28,Horizon Partners,2025-09-17
+P0121,Books,Technology,Technology Product 1,16791.36,21708.41,Delta Wholesale,2025-06-29
+P0122,Books,Technology,Technology Product 2,781.97,1177.63,Galaxy Imports,2024-06-02
+P0123,Books,Technology,Technology Product 3,6151.16,9138.19,Crestline,2025-09-14
+P0124,Books,Technology,Technology Product 4,8261.54,13877.88,BluePeak Traders,2023-09-10
+P0125,Books,Technology,Technology Product 5,2795.42,4549.41,BluePeak Traders,2022-12-27
+P0126,Books,Technology,Technology Product 6,1731.0,2064.99,Galaxy Imports,2025-02-17
+P0127,Books,Business,Business Product 1,11301.23,14241.23,Aster Supply,2023-11-22
+P0128,Books,Business,Business Product 2,10426.56,14244.6,Crestline,2022-10-03
+P0129,Books,Business,Business Product 3,10782.26,15031.32,Delta Wholesale,2022-02-05
+P0130,Books,Business,Business Product 4,12647.19,17567.38,Galaxy Imports,2023-12-18
+P0131,Books,Business,Business Product 5,15132.87,18426.24,Aster Supply,2026-02-28
+P0132,Books,Business,Business Product 6,14519.88,18909.71,Fusion Retail Supply,2025-09-27
+P0133,Books,Fiction,Fiction Product 1,2412.28,3801.51,Aster Supply,2024-10-13
+P0134,Books,Fiction,Fiction Product 2,14001.37,18348.12,BluePeak Traders,2024-07-18
+P0135,Books,Fiction,Fiction Product 3,2656.8,3423.9,Fusion Retail Supply,2024-01-06
+P0136,Books,Fiction,Fiction Product 4,9768.75,13684.07,Crestline,2026-04-11
+P0137,Books,Fiction,Fiction Product 5,3910.79,4675.01,Crestline,2022-06-03
+P0138,Books,Fiction,Fiction Product 6,578.54,1009.18,Galaxy Imports,2022-04-21
+P0139,Books,Education,Education Product 1,2321.26,3551.81,Delta Wholesale,2024-09-08
+P0140,Books,Education,Education Product 2,10088.61,13502.8,Aster Supply,2022-12-07
+P0141,Books,Education,Education Product 3,8042.89,12798.51,Galaxy Imports,2022-06-24
+P0142,Books,Education,Education Product 4,7740.44,11740.41,Delta Wholesale,2024-04-24
+P0143,Books,Education,Education Product 5,2444.18,4082.28,BluePeak Traders,2024-12-23
+P0144,Books,Education,Education Product 6,6241.94,8294.32,Aster Supply,2022-11-21
